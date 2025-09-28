@@ -26,7 +26,7 @@ The solution integrates extensive data preprocessing, exploratory data analysis 
 ## How to Use
 
 1. Clone the repository:
-git clone https://github.com/SammiWang0516/house-price-prediction.git
+git clone https://github.com/SammiWang0516/house-price-prediction-machine-learning.git
 
 2. Install dependencies:
 pip install -r requirements.txt
